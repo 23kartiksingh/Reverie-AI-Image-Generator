@@ -24,6 +24,7 @@ You can still explore the full functionality, UI/UX design, and API integration 
 
 ## Project Status
 This project is complete and fully functional in terms of code and structure.
+
 ---
 
 Feel free to explore, fork, and adapt this project for your own learning or applications.
